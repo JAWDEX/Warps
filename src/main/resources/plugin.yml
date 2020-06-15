@@ -1,0 +1,10 @@
+name: Warps
+main: me.jawdex.warps.Warps
+version: 1.0
+author: JAWDEX
+commands:
+  warp:
+  createwarp:
+    aliases: [addwarp]
+  deletewarp:
+    aliases: [delwarp, removewarp]
